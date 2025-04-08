@@ -1,0 +1,8 @@
+.dart_tool/
+.packages
+build/
+.idea/
+android/.gradle/
+*.iml
+*.lock
+.env
